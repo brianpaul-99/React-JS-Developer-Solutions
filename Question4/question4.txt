@@ -1,0 +1,5 @@
+Problems with the code
+
+1. The body attribute in the fetch call should be inside the headers attribute.
+2. You cannot do .echo in the callback function of the fetch.
+3. You cannot perform forEach function on server_echo since it's a string.
