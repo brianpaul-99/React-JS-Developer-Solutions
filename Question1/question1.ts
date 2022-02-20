@@ -10,4 +10,3 @@ function getResult(num: number) {
   }
 }
 
-getResult(45);
